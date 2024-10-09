@@ -1,0 +1,15 @@
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\bin\Debug\net8.0\EnumWithDetails.exe
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\bin\Debug\net8.0\EnumWithDetails.deps.json
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\bin\Debug\net8.0\EnumWithDetails.runtimeconfig.json
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\bin\Debug\net8.0\EnumWithDetails.dll
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\bin\Debug\net8.0\EnumWithDetails.pdb
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\EnumWithDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\EnumWithDetails.AssemblyInfoInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\EnumWithDetails.AssemblyInfo.cs
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\EnumWithDetails.csproj.CoreCompileInputs.cache
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\EnumWithDetails.sourcelink.json
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\EnumWithDetails.dll
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\refint\EnumWithDetails.dll
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\EnumWithDetails.pdb
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\EnumWithDetails.genruntimeconfig.cache
+C:\Users\sanca\OneDrive\Masaüstü\C#-fundamentals\Fundamentals\EnumWithDetails\obj\Debug\net8.0\ref\EnumWithDetails.dll
